@@ -1,0 +1,14 @@
+@import './normalize.css';
+@import './header.css';
+@import './font.css';
+
+.mainWrapper {
+    width: 100%;
+    max-width: 1600px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-areas: 
+    '. header .';
+    grid-template-columns: 80px 1fr 105px;
+    font-family: 'MBold';
+}
