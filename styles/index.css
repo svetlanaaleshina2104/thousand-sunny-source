@@ -1,6 +1,11 @@
 @import './normalize.css';
-@import './header.css';
 @import './font.css';
+@import './variables.css';
+@import './common.css';
+@import './header.css';
+@import './travelerMain.css';
+@import './travelerSecond.css';
+
 
 .mainWrapper {
     width: 100%;
@@ -8,7 +13,10 @@
     margin: 0 auto;
     display: grid;
     grid-template-areas: 
-    '. header .';
-    grid-template-columns: 80px 1fr 105px;
+    '. header .'
+    '. travelerMain .'
+    '. travelerSecond .';
+    grid-template-columns: 190px 1fr 105px;
     font-family: 'MBold';
+    color: var(--c-abbey);
 }

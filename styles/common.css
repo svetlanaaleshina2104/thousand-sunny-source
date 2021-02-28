@@ -1,0 +1,65 @@
+.header_button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    font-family: 'IntMed';
+    font-size: 15px;
+    height: 60px;
+    margin-right: 85px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+
+.header_buttonLog {
+    color: var(--c-treePoppy);
+    background-color: var(--c-white);
+    margin-right: 18px;
+    padding: 8px 46px;
+    border: 2px solid var(--c-treePoppy);
+    border-radius: 8px;
+    font-family: 'IntReg';
+}
+
+.header_buttonReg {
+    
+    color: var(--c-white);
+    background: var(--c-treePoppy);
+    padding: 8px 36px;
+    border: 2px solid var(--c-treePoppy);
+    border-radius: 8px;
+    font-family: 'IntReg';
+}
+
+.travelerMain_LeftButton {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    
+    min-width: 180px;
+    height: 52px;
+    padding: 8px 36px;
+    border-radius: 8px;
+    font-size: 15px;
+    line-height: 60px;
+    color: var(--c-white);
+    background: var(--c-treePoppy);
+    border: 2px solid var(--c-treePoppy);
+    cursor: pointer;
+    /* outline: none; */
+    font-family: 'MBold';
+    margin-right: 300px;
+}
+
+.second_button {
+    min-width: 164px;
+    height: 48px;
+    color: var(--c-white);
+    background: var(--c-treePoppy);
+    padding: 8px 36px;
+    border: 2px solid var(--c-treePoppy);
+    border-radius: 8px;
+    font-family: 'IntReg';
+    cursor: pointer;
+}

@@ -1,0 +1,41 @@
+.travelerSecond {
+    grid-area: travelerSecond;
+    display: flex;
+    justify-content: space-between;
+    max-width: 1242px;
+    height: 550px;
+}
+
+.travelerSecond_first {
+    display: flex;
+    min-height: 534px;
+    width: 659px;
+    background: url(/image/travelerSecond.jpg) no-repeat;
+}
+
+
+.travelerSecond_second {
+    max-width: 481px;
+    height: 333px;
+
+}
+
+.second_title {
+    max-width: 481px;
+    height: 100px;
+    font-family: 'PFDBold';
+    color: var(--c-black);
+    font-size: 36px;
+    line-height: 50px;
+    margin-bottom: 20px;
+}
+
+.second_text {
+    max-width: 450px;
+    height: 120px;
+    font-family: 'MMed';
+    font-size: 17px;
+    line-height: 30px;
+    color: var(--c-topaz);
+    margin-bottom: 33px;
+}
