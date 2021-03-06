@@ -9,22 +9,21 @@
 .travelerMain__left {
     display: flex;
     flex-direction: column;
-
 }
+
 .leftTitle__text {
     max-width: 356px;
     height: 160px;
     font-size: 64px;
     color: var(--c-ebonyClay);
     font-family: 'PFDBold';
-    
 }
+
 .travelerMain__leftInput {
    display: flex;
    flex-direction: column;
    max-width: 471px;
    height: 344px;
-    
 }
 
 .leftInput__leftText {
@@ -52,13 +51,11 @@
 
 .leftInput__leftSelectOne {
     margin-bottom: 35px;
-    
 }
 
 .leftInput__leftSelectTwo {
     margin-bottom: 47px;
 }
-
 
 .travelerMain__right {
     display: flex;
@@ -69,7 +66,6 @@
 }
 
 .select{
-    
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -99,7 +95,6 @@
 }
 
 .select__icon {
-    
     width: 9.5px;
     height: 6px;
 }

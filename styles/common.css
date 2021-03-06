@@ -12,13 +12,12 @@
     cursor: pointer;
     font-family: 'IntReg';
 }
+
 .header__button {
     display: flex;
     justify-content: center;
     margin-left: 34px;
-    
 }
-
 
 .header__buttonLog {
     margin-right: 18px;
@@ -58,19 +57,16 @@
 
 .first__title {
    margin: 0 0 20px;
-    
 }
 
 .left__title {
     height: 50px;
     margin: 0 0 145px 50px;
-    
 }
 
 .title__text {
     height: 50px;
     margin: 0;
-    
 }
 
 .header__view{

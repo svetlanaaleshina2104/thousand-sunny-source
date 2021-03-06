@@ -5,20 +5,18 @@
     max-width: 1180px;
     height: 616px;
     margin-bottom: 213px;
-
 }
+
 .testimonials__left {
     display: flex;
     flex-direction: column;
     margin-right: 169px;
-    
 }
 
 .left__text {
     width: 450px;
     height: 321px;
     margin-left: 50px;
-   
 }
 
 .left__img {
@@ -61,7 +59,6 @@
     height: 491px;
     margin-top: 110px;
     position: relative;
-    
 }
 
 .right__img {

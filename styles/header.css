@@ -12,7 +12,6 @@
     display: flex;
     width: 41px;
     height: 41px;
-    
 }
 
 .header_navigation {
@@ -22,13 +21,11 @@
     max-width: 663px;
     line-height: 60px;
     margin-right: 85px;
-    
 }
 
 .header_nav {
     display: flex;
     justify-content: space-between;
-    
 }
 
 .link {
@@ -38,14 +35,13 @@
     margin-right: 34px;
     font-family: 'IntMed';
 }
+
 .nav__linkHome {
     color: var(--c-ebonyClay);
-    
 }
 
 .nav__link {
     color: var(--c-heather);
-    
 }
 
 .nav__link:last-child {
