@@ -5,6 +5,11 @@
 @import './header.css';
 @import './travelerMain.css';
 @import './travelerSecond.css';
+@import './destinations.css';
+@import './travelerGuides.css';
+@import './testimonials.css';
+@import './stories.css';
+@import './footer.css';
 
 
 .mainWrapper {
@@ -15,7 +20,12 @@
     grid-template-areas: 
     '. header .'
     '. travelerMain .'
-    '. travelerSecond .';
+    '. travelerSecond .'
+    '. destinations .'
+    '. travelerGuides .'
+    '. testimonials .'
+    '. stories .'
+    'footer footer footer';
     grid-template-columns: 190px 1fr 105px;
     font-family: 'MBold';
     color: var(--c-abbey);

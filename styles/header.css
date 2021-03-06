@@ -19,33 +19,35 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
     max-width: 663px;
     line-height: 60px;
-    font-family: 'IntMed';
+    margin-right: 85px;
+    
 }
 
 .header_nav {
     display: flex;
     justify-content: space-between;
-    font-size: 16px;
-    line-height: 19px;
     
 }
 
-.header_navLinkHome {
+.link {
     text-decoration: none;
+    font-size: 16px;
+    line-height: 19px;
+    margin-right: 34px;
+    font-family: 'IntMed';
+}
+.nav__linkHome {
     color: var(--c-ebonyClay);
-    font-size: 16px;
-    line-height: 19px;
-    margin-right: 34px;
+    
 }
 
-.header_navLink {
-    text-decoration: none;
+.nav__link {
     color: var(--c-heather);
-    font-size: 16px;
-    line-height: 19px;
-    margin-right: 34px;
+    
 }
 
+.nav__link:last-child {
+    margin-right: 0;
+}

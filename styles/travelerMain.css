@@ -3,17 +3,15 @@
     display: flex;
     justify-content: space-between;
     max-width: 1415px;
-    margin-bottom: 270px;
+    margin-bottom: 286px;
 }
 
-.travelerMain_Left {
+.travelerMain__left {
     display: flex;
     flex-direction: column;
 
-
 }
-
-.travelerMain_LeftTextMain {
+.leftTitle__text {
     max-width: 356px;
     height: 160px;
     font-size: 64px;
@@ -21,7 +19,7 @@
     font-family: 'PFDBold';
     
 }
-.travelerMain_LeftInput {
+.travelerMain__leftInput {
    display: flex;
    flex-direction: column;
    max-width: 471px;
@@ -29,42 +27,40 @@
     
 }
 
-.travelerMain_LeftText {
+.leftInput__leftText {
     max-width: 149px;
     line-height: 27px;
     font-size: 22px;
-    margin-bottom: 21px;
+    margin: 0 0 21px 0;
     font-family: 'IntReg';
     color: var(--c-ebonyClay);
 }
 
-.travelerMain_LeftLine {
+.leftInput__leftLine {
     width: 32px;
     margin: 5px 0 48px 0;
     border-radius: 4px;
     border-width: 0px;
-    
-    
-	border-top: 2px solid var(--c-ebonyClay);
+    border-top: 2px solid var(--c-ebonyClay);
 }
 
-.travelerMain_LeftSelectOne {
+.input{
     display: flex;
     flex-direction: row;
     width: 471px;
+}
+
+.leftInput__leftSelectOne {
     margin-bottom: 35px;
     
 }
 
-.travelerMain_LeftSelectTwo {
-    display: flex;
-    flex-direction: row;
-    width: 471px;
+.leftInput__leftSelectTwo {
     margin-bottom: 47px;
 }
 
 
-.travelerMain_Right {
+.travelerMain__right {
     display: flex;
     min-height: 654px;
     width: 687px;
@@ -96,14 +92,14 @@
     margin: 0 30px 0 0;
 }
 
-.select_icon {
-    
-    width: 9.5px;
-    height: 6px;
-}
-
-.select_text {
+.select__text {
     display: flex;
     justify-content: center;
     margin-right: 81px;
+}
+
+.select__icon {
+    
+    width: 9.5px;
+    height: 6px;
 }

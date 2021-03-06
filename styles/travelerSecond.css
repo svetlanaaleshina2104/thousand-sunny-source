@@ -4,38 +4,22 @@
     justify-content: space-between;
     max-width: 1242px;
     height: 550px;
+    margin-bottom: 262px;
+    margin-left: -49px;
 }
 
-.travelerSecond_first {
+.travelerSecond__left {
     display: flex;
-    min-height: 534px;
+    height: 534px;
     width: 659px;
     background: url(/image/travelerSecond.jpg) no-repeat;
 }
 
-
-.travelerSecond_second {
+.travelerSecond__right {
+    display: flex;
+    flex-direction: column;
     max-width: 481px;
     height: 333px;
+    margin-top: 96px;
 
-}
-
-.second_title {
-    max-width: 481px;
-    height: 100px;
-    font-family: 'PFDBold';
-    color: var(--c-black);
-    font-size: 36px;
-    line-height: 50px;
-    margin-bottom: 20px;
-}
-
-.second_text {
-    max-width: 450px;
-    height: 120px;
-    font-family: 'MMed';
-    font-size: 17px;
-    line-height: 30px;
-    color: var(--c-topaz);
-    margin-bottom: 33px;
 }

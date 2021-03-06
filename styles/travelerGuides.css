@@ -1,0 +1,24 @@
+.travelerGuides {
+    grid-area: travelerGuides;
+    display: flex;
+    justify-content: space-between;
+    max-width: 1206px;
+    height: 542px;
+    margin: 0 0 248px 50px;
+}
+
+.travelerGuides__first {
+    display: flex;
+    flex-direction: column;
+    max-width: 481px;
+    height: 303px;
+    margin: 152px 49px 93px 0;
+}
+
+.travelerGuides__second {
+    display: flex;
+    width: 599px;
+    min-height: 542px;
+    margin-right: 76px;
+    background: url(/image/travelerGuides.jpg) no-repeat;
+}
