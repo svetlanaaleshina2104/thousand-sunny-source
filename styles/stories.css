@@ -89,13 +89,13 @@
 }
 
 .containerItemTwo{
-    background-image: url(./image/storiesTwo.png)
+    background-image: url(../image/storiesTwo.png)
 }
 
 .containerItemThree{
-    background-image: url(./image/storiesThree.png)
+    background-image: url(../image/storiesThree.png)
 }
 
 .containerItemFour{
-    background-image: url(./image/storiesFour.png)
+    background-image: url(../image/storiesFour.png)
 }

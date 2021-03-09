@@ -49,18 +49,18 @@
 }
 
 .destinations__containerItemOne {
-    background-image: url(./image/raja.jpg)
+    background-image: url(../image/raja.jpg)
 }
 
 .destinations__containerItemTwo{
-    background-image: url(./image/fajin.jpg)
+    background-image: url(../image/fajin.jpg)
 }
 
 .destinations__containerItemThree{
-    background-image: url(./image/vevey.jpg)
+    background-image: url(../image/vevey.jpg)
 }
 
 .destinations__containerItemFour{
-    background-image: url(./image/skadar.jpg)
+    background-image: url(../image/skadar.jpg)
 }
 

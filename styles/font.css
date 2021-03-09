@@ -1,65 +1,65 @@
 @font-face {
     font-family: 'IntBold';
-    src: url(/font/Inter-Bold.ttf);
+    src: url(../font/Inter-Bold.ttf);
     font-weight: bold;
 }
 
 @font-face {
     font-family: 'IntMed';
-    src: url(/font/Inter-Medium.ttf);
+    src: url(../font/Inter-Medium.ttf);
     
 }
 
 @font-face {
     font-family: 'IntReg';
-    src: url(/font/Inter-Regular.ttf);
+    src: url(../font/Inter-Regular.ttf);
     
 }
 
 @font-face {
     font-family: 'IntThin';
-    src: url(/font/Inter-Thin.ttf);
+    src: url(../font/Inter-Thin.ttf);
     
 }
 
 @font-face {
     font-family: 'MBold';
-    src: url(/font/Mulish-Bold.ttf);
+    src: url(../font/Mulish-Bold.ttf);
     font-weight: bold;
 }
 
 @font-face {
     font-family: 'MLight';
-    src: url(/font/Mulish-Light.ttf);
+    src: url(../font/Mulish-Light.ttf);
     
 }
 
 @font-face {
     font-family: 'MMed';
-    src: url(/font/Mulish-Medium.ttf);
+    src: url(../font/Mulish-Medium.ttf);
     
 }
 
 @font-face {
     font-family: 'MReg';
-    src: url(/font/Mulish-Regular.ttf);
+    src: url(../font/Mulish-Regular.ttf);
     
 }
 
 @font-face {
     font-family: 'PFDBold';
-    src: url(/font/PlayfairDisplay-Bold.ttf);
+    src: url(../font/PlayfairDisplay-Bold.ttf);
     font-weight: bold;
 }
 
 @font-face {
     font-family: 'PFDMed';
-    src: url(/font/PlayfairDisplay-Medium.ttf);
+    src: url(../font/PlayfairDisplay-Medium.ttf);
     
 }
 
 @font-face {
     font-family: 'PFDReg';
-    src: url(/font/PlayfairDisplay-Regular.ttf);
+    src: url(../font/PlayfairDisplay-Regular.ttf);
     
 }
